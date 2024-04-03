@@ -2,7 +2,7 @@ Title: Handwritten Recognition Using Convolutional Neural Networks (CNN) - READM
 
 ## Handwritten Recognition with CNNs
 
-Welcome to the Handwritten Recognition repository! This project focuses on leveraging Convolutional Neural Networks (CNNs) to recognize handwritten content, such as digits, letters, or even entire words. Whether you're a researcher, developer, or enthusiast, this repository provides tools and resources to explore the fascinating world of handwritten recognition.
+Welcome to the Handwritten Recognition repository! This project focuses on leveraging Convolutional Neural Networks (CNNs) to recognize handwritten content, such as digits. Whether you're a researcher, developer, or enthusiast, this repository provides tools and resources to explore the fascinating world of handwritten recognition.
 
 ### Features
 
